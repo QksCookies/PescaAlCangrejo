@@ -4,7 +4,7 @@ import javax.swing.JLabel;
 
 public class Arena extends JLabel{
 	private int indice = 0; 
-	//hoyos arena mar.	
+		
 	public int getIndice() {
 		return indice;
 	}
