@@ -33,7 +33,6 @@ import java.awt.event.ActionEvent;
 import javax.swing.border.BevelBorder;
 
 public class NivelesDelMar extends JFrame implements ActionListener{
-	//unforgiven le sserafim
 	private Arena[] arrayArena;
 	private JLabel etiquetaPuntuacionMaxima;
 	private boolean[] arrayCrab;
